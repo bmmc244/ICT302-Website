@@ -4,7 +4,7 @@ date: 2020-08-23T00:00:00-04:00
 draft: false
 ---
 
-<h>2I can identify and define key concepts in (web) content management.</h2>
+<h2>I can identify and define key concepts in (web) content management.</h2>
 
 I am still a little unclear on what exactly a web content management system is, but as the semester goes on hopefully I will learn more and more about this topic.
 
