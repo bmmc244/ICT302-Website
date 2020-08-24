@@ -5,3 +5,4 @@ draft: false
 ---
 
 My name is Brendan McCulley
+![This is a picture of a trumpet](https://friendly-williams-8d1370.netlify.app/ICT302Pic.jpg)
