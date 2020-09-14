@@ -50,4 +50,4 @@ url = "/ResourceGuideDummy/"
 [[menu.main]]
 name = "Annotated Defintions"
 weight = 4
-url = "/AnnotatedDefintionDummy/"
+url = "/AnnotatedDefinitionDummy/"
