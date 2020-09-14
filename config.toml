@@ -43,3 +43,11 @@ url = "/Introduction/"
 name = "Walkthrough"
 weight = 2
 url = "/WalkthroughDummy/"
+[[menu.main]]
+name = "Resource Guide"
+weight = 3
+url = "/ResourceGuideDummy/"
+[[menu.main]]
+name = "Annotated Defintions"
+weight = 4
+url = "/AnnotatedDefintionsDummy/"
