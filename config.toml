@@ -39,3 +39,6 @@ HUGO_ENABLEGITINFO = "true"
 name = "Introduction"
 weight = 1
 url = "/Introduction/"
+name = "Walkthrough"
+weight = 2
+url = "/WalkthroughDummy/"
