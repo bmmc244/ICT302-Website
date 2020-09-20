@@ -1,7 +1,7 @@
 baseURL = "https://friendly-williams-8d1370.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "hugo-theme-dimension-master"
 
 [build]
 publish = "public"
